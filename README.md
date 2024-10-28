@@ -5,3 +5,5 @@ There are some applications settings.
 2. fish. ( shell )
 3. hyprland ( dynamic windwon manager)
 4. waybar (state bar run )
+5. kitty ( terminal )
+6. fastfetch ( displays OS informations )
